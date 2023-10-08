@@ -1,7 +1,5 @@
 # Breast Cancer Survival Prediction Using Machine Learning
 
- Link to dataset: https://www.kaggle.com/datasets/amandam1/breastcancerdataset
-
 The dataset contains information on over 400 breast cancer patients who underwent surgery for the treatment of breast cancer. Below is the information for all columns in the dataset:
 
 - Patient_ID: ID of the patient
