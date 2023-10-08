@@ -21,3 +21,9 @@ The dataset contains information on over 400 breast cancer patients who underwen
 # Task
 
 To predict whether a breast cancer patient will survive or not after the surgery.
+
+![alt text] (https://github.com/ervhart/Breast-Cancer-Analysis/blob/main/Capture_BC.PNG)
+
+![alt text] (https://github.com/ervhart/Breast-Cancer-Analysis/blob/main/Capture_BC1.PNG)
+
+![alt text] (https://github.com/ervhart/Breast-Cancer-Analysis/blob/main/Capture_BC2.PNG)
